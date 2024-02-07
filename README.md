@@ -14,5 +14,5 @@ Este proyecto es una implementación de un canal de YouTube, donde puedes agrega
 - `build/`: Directorio que almacena los archivos compilados.
 - `.gitignore`: Archivo utilizado para ignorar archivos y directorios en Git.
 
-[![Estado de construcción](https://img.shields.io/static/v1?label=Estado%20de%20Construcción&message=Finalizado&color=success)](https://github.com/yowcloud/youtube)
+[![Estado de construcción](https://img.shields.io/static/v1?label=Estado%20de%20Construcción&message=Finalizado&color=success)](https://github.com/yowcloud/practicaYoutube)
 
